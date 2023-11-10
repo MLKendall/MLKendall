@@ -6,7 +6,7 @@ I am also:
 -  📷 An [experimental photographer](https://mkendallphotography.com/) working in infrared and stereo photography
 -  💧 A [Penn State Master Watershed Steward](https://extension.psu.edu/programs/watershed-stewards)
 -  🎣 A Fishing Skills Instructor with [PA Fish and Boat Commission](https://www.fishandboat.com/Pages/default.aspx)
--  🐟 A member of [Trout Unlimited](https://www.tu.org/) and 🌲 PA Parks and Forests Foundation
+-  🐟 A member of [Trout Unlimited](https://www.tu.org/) and 🌲 [PA Parks and Forests Foundation](https://paparksandforests.org/)
 -  🏕️ An avid love of all things outdoors (but especially hiking, fly fishing, and kayaking)
 
 Have an environmental, education, or climate change project you'd like some technical help with? [Let's chat!](mailto:mlkendall93@gmail.com)
