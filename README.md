@@ -1,6 +1,6 @@
 ### Hi there!  I'm Mandy!
 
-I am a senior-level developer and [IAAP Certified Web Accessibility Specialist](https://www.accessibilityassociation.org/s/wascertification#About%20WAS) at [Sparkbox](https://sparkbox.com/). I specialize in web accessibility and design systems, but I am also excited to be learning [ArcGIS](https://www.arcgis.com/index.html) and [MapBox](https://www.mapbox.com/).
+I am a developer and [IAAP Certified Web Accessibility Specialist](https://www.accessibilityassociation.org/s/wascertification#About%20WAS) at [Sparkbox](https://sparkbox.com/). I specialize in web accessibility and design systems, but I am also excited to be learning [ArcGIS](https://www.arcgis.com/index.html) and [MapBox](https://www.mapbox.com/).
 
 I am also:
 -  📷 An [experimental photographer](https://mkendallphotography.com/) working in infrared and stereo photography
